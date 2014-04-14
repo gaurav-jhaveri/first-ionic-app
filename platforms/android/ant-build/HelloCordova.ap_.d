@@ -21,14 +21,12 @@
 /Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/index.html \
 /Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/js \
 /Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/lib \
+/Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/main.html \
 /Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/plugins \
 /Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/README.md \
 /Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/templates \
-/Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/css/style.css \
 /Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/img/ionic.png \
 /Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/js/app.js \
-/Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/js/controllers.js \
-/Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/js/services.js \
 /Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/lib/ionic \
 /Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/lib/ionic/css \
 /Users/gauravjhaveri/Documents/first_ionic_app/platforms/android/assets/www/lib/ionic/fonts \
